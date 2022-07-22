@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arbeitsstunden-tracker/static/css/main.c7aa059b.css",
+    "main.js": "/arbeitsstunden-tracker/static/js/main.6fc482ad.js",
+    "index.html": "/arbeitsstunden-tracker/index.html",
+    "main.c7aa059b.css.map": "/arbeitsstunden-tracker/static/css/main.c7aa059b.css.map",
+    "main.6fc482ad.js.map": "/arbeitsstunden-tracker/static/js/main.6fc482ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7aa059b.css",
+    "static/js/main.6fc482ad.js"
+  ]
+}
